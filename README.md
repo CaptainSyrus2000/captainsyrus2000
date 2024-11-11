@@ -74,4 +74,6 @@
 
 ###
 
-https://osu-sig.vercel.app/card?user=Dr_Syrus&mode=mania&lang=en&animation=true&hue=45&mini=true
+<div align="center">
+  
+![](https://osu-sig.vercel.app/card?user=Dr_Syrus&mode=mania&lang=en&animation=true&hue=45&mini=true)
