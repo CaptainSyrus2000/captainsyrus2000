@@ -73,4 +73,5 @@
 </div>
 
 ###
- 
+
+ ![osu! signature card](/card?user=Dr_Syrus&mode=mania&lang=en&round_avatar=true&animation=true&hue=255&mini=true)
