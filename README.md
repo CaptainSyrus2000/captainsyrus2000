@@ -74,4 +74,4 @@
 
 ###
 
- ![osu! signature card](/card?user=Dr_Syrus&mode=mania&lang=en&round_avatar=true&animation=true&hue=255&mini=true)
+ [![osu! signature card](/card?user=Dr_Syrus&mode=mania&lang=en&animation=true&hue=255&mini=true)](https://osu.ppy.sh/u/Dr_Syrus)
