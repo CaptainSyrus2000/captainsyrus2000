@@ -76,4 +76,4 @@
 
 <div align="center">
   
-![]([https://osu-sig.vercel.app/card?user=Dr_Syrus&mode=mania&lang=en&animation=true&hue=45&mini=true](https://osu-sig.vercel.app/card?user=OwariMonogatari&mode=mania&lang=en&round_avatar=true&animation=true&hue=255&mini=true))
+[![osu! signature card](/card?user=OwariMonogatari&mode=mania&lang=en&round_avatar=true&animation=true&hue=255&mini=true)](https://osu.ppy.sh/u/OwariMonogatari)
