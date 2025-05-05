@@ -76,4 +76,4 @@
 
 <div align="center">
   
-[![osu! signature card](/card?user=OwariMonogatari&mode=mania&lang=en&round_avatar=true&animation=true&hue=255&mini=true)](https://osu.ppy.sh/u/OwariMonogatari)
+<img src="/card?user=OwariMonogatari&mode=mania&lang=en&round_avatar=true&animation=true&hue=255&mini=true" />
